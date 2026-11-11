@@ -1,0 +1,6 @@
+USE QLDIEM
+
+SELECT *
+FROM DMKHOA
+
+insert into DMKHOA values ('C7', N'CNTT')
